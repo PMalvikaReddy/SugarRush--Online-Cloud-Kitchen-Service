@@ -1,6 +1,6 @@
 # SugarRush- Online Cloud Kitchen Service Website
 
-## The project is implemented using ReactJs.
+### The project is implemented using ReactJs.
 ## Outputs :
 1. Main Home Page
    
